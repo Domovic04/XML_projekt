@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vozaci>
+    <vozac id="1">
+        <ime>Max</ime>
+        <prezime>Verstappen</prezime>
+        <godiste>1997.</godiste>
+        <tim>Red Bull</tim>
+        <bolid>RB21</bolid>
+    </vozac>
+    <vozac id="2">
+        <ime>Carlos</ime>
+        <prezime>Sainz Vázquez de Castro</prezime>
+        <godiste>1994.</godiste>
+        <tim>Williams Racing</tim>
+        <bolid>Williams FW41</bolid>
+    </vozac>
+    <vozac id="3">
+        <ime>Charles</ime>
+        <prezime>Marc Hervé Perceval Leclerc</prezime>
+        <godiste>1997.</godiste>
+        <tim>Scuderia Ferrari</tim>
+        <bolid>SF-25</bolid>
+    </vozac>
+    <vozac id="4">
+        <ime>Fernando</ime>
+        <prezime>Alonso Díaz</prezime>
+        <godiste>1981.</godiste>
+        <tim>Aston Martin</tim>
+        <bolid>AMR25</bolid>
+    </vozac>
+    <slike>
+        <slika>redbullRB21.jpeg</slika>
+    </slike>
+</vozaci>

@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(204, 231, 255);
+}
+
+.navigacija{
+    background: linear-gradient(to top, aliceblue , red);
+}
+
+.nav-item a{
+    color: white;
+    font-weight: bolder;
+}
+
+.nav-item a{
+    font-size: 23px;
+    transition: font-size 0.3s ease;
+}
+.nav-item a:hover{
+    font-size: 17px;
+    color:rgb(165, 8, 39) ;
+}
+
+.opis{
+    font-style: italic;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
+.table{
+    margin: 40px 0;
+}
+
+.slika-bolid img{
+    border-radius: 10px;
+     box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.7); 
+}
+
+.vozac{
+    padding: 20px 0;
+}
+
+.vozac img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.7); 
+    margin: 15px 0;
+}
+
+.vozac h2{
+    text-align: center;
+    text-shadow: 3px 3px rgb(189, 189, 189);
+    color: crimson;
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+}
+
+
+
+footer{
+    background: linear-gradient(to bottom, aliceblue, rgb(255, 66, 66));
+    padding: 20px 0;
+    color:white;
+    margin: 0;
+    font-style: italic;
+}
+
+footer h5{
+    font-size: 15px;
+}
+

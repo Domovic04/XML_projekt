@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vozaci>
+    <vozac>
+        <slika>max.jpg</slika>
+        <ime>Max Verstappen</ime>
+        <opis>Max Verstappen je četverostruki svjetski prvak Formule 1 koji vozi za Red Bull Racing. Poznat je po izuzetno agresivnom, ali preciznom stilu vožnje. Od svoje debitantske utrke, postao je najmlađi pobjednik u povijesti Formule 1. Njegova dominacija u sezoni 2023. ostat će zapamćena kao jedna od najimpresivnijih.</opis>
+    </vozac>
+    <vozac>
+        <slika>charles.jpeg</slika>
+        <ime>Charles Hervé Perceval Leclerc</ime>
+        <opis>Charles Leclerc dolazi iz Monaka i jedan je od najtalentiranijih mladih vozača današnjice. Vozi za Scuderia Ferrari i poznat je po brzini u kvalifikacijama i čistom trkaćem instinktu. Unatoč brojnim tehničkim problemima momčadi, često uspijeva izvući maksimum iz bolida.</opis>
+    </vozac>
+    <vozac>
+        <slika>sainz.jpg</slika>
+        <ime>Carlos Sainz Vázquez de Castro</ime>
+        <opis>Carlos Sainz je španjolski vozač koji trenutno vozi za Ferrari. Sin bivšeg WRC prvaka, Carlos je poznat po svojoj analitičnosti, konzistentnosti i timskoj igri. Nerijetko je ključan faktor u strategijama utrka koje Ferrariju donose važne bodove.</opis>
+    </vozac>
+    <vozac>
+        <slika>alonso.jpg</slika>
+        <ime>Fernando Alonso Díaz</ime>
+        <opis>Fernando Alonso je dvostruki svjetski prvak i legenda Formule 1. Njegova karijera uključuje brojne povratke i nevjerojatne performanse u različitim timovima. Iako u kasnijoj fazi karijere, i dalje pokazuje iznimnu brzinu, borbenost i taktičku inteligenciju, trenutno vozeći za Aston Martin.</opis>
+    </vozac>
+</vozaci>
